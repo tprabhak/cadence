@@ -17,9 +17,6 @@ type Log = {
 
 type Props = { learnerId: string; onBack: () => void };
 
-function fmtDate(iso: string): string {
-  return new Date(iso + "T00:00:00").toLocaleDateString("en-US", { month: "short", day: "numeric" });
-}
 
 function ConfidenceDots({ value }: { value: number }) {
   return (
@@ -142,7 +139,6 @@ export default function HistoryPage({ learnerId, onBack }: Props) {
             <div style={{ display: "flex", flexDirection: "column", gap: 8 }}>
               {logs.map((log, i) => {
                 const quizPct  = log.quiz_score !== null ? Math.round(log.quiz_score * 100) : null;
-                const isGood   = (log.confidence || 0) >= 4;
                 return (
                   <div key={i} style={{ background: SURFACE, border: `1px solid ${BORDER}`, borderRadius: 10, padding: "16px 20px", display: "flex", alignItems: "flex-start", gap: 16 }}>
 

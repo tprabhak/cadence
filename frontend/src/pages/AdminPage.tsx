@@ -8,7 +8,6 @@ const AMBER_DIM = "rgba(201,134,42,0.10)";
 const TEXT    = "#1C1A17";
 const TEXT_DIM  = "#7A7268";
 const GREEN   = "#16A34A";
-const GREEN_DIM = "#DCFCE7";
 
 const API          = "http://localhost:8000";
 const ADMIN_SECRET = process.env.REACT_APP_ADMIN_SECRET || "";

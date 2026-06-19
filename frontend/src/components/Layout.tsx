@@ -6,7 +6,6 @@ const SIDEBAR    = "#1C1A17";
 const SIDEBAR_B  = "#2A2520";
 const AMBER      = "#C9862A";
 const AMBER_DIM  = "rgba(201,134,42,0.14)";
-const S_TEXT     = "#EDE8DC";   // cream on dark sidebar
 const S_DIM      = "#7A6E60";   // muted on dark sidebar
 
 // Right panel / content

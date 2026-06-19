@@ -2,15 +2,10 @@ import React, { useRef, useState, useCallback, useEffect } from "react";
 
 const AMBER     = "#C9862A";
 const AMBER_DIM = "rgba(201,134,42,0.10)";
-const BG        = "#F5F0E8";
-const SURFACE   = "#FFFFFF";
 const BORDER    = "#E8E2D8";
-const TEXT      = "#1C1A17";
 const TEXT_DIM  = "#7A7268";
 const RED       = "#EF4444";
 const RED_DIM   = "#FEF2F2";
-const GREEN     = "#16A34A";
-const GREEN_DIM = "#F0FDF4";
 
 const NOTE_NAMES = ["C", "C#", "D", "Eb", "E", "F", "F#", "G", "Ab", "A", "Bb", "B"];
 
@@ -157,7 +152,7 @@ export default function AudioRecorder({ onDone, onAudioUrl, disabled, maxSeconds
     } catch {
       setState("denied");
     }
-  }, []);
+  }, [rmsThreshold]);
 
   const handleStop = useCallback(() => {
     stopRecording(); // disconnect pitch detection; stream stays alive for MediaRecorder

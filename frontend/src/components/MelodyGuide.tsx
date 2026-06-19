@@ -16,10 +16,6 @@ const PHRASES = [
   { label: "Falling in love with you", notes: ["D", "C",  "Bb"]      },
 ];
 
-const NOTE_COLORS: Record<string, string> = {
-  Bb: "#C9862A", C: "#7A7268", D: "#C9862A", Eb: "#7A7268",
-  F:  "#C9862A", G: "#7A7268",
-};
 
 const UNIQUE_NOTES = ["Bb", "C", "D", "Eb", "F", "G"];
 
