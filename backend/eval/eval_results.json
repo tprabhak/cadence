@@ -1,0 +1,197 @@
+[
+  {
+    "profile": "Alice",
+    "level": "complete_beginner",
+    "song": "Girl from Ipanema",
+    "days": 90,
+    "plan": {
+      "segment_count_ok": true,
+      "segment_count": 10,
+      "dates_within_deadline": true,
+      "skills_non_empty": true,
+      "skills_distinct": true,
+      "all_not_started": true,
+      "song_contextual": true,
+      "_score": "6/6"
+    },
+    "plan_ok": true,
+    "coaching": {
+      "word_count": 70,
+      "concise": true,
+      "has_what": true,
+      "has_drill": true,
+      "has_done_when": true,
+      "has_numbered_steps": true,
+      "step_count": 3,
+      "non_empty": true,
+      "_score": "6/6"
+    },
+    "coaching_ok": true,
+    "coaching_preview": "**What:** Building the embouchure and breath control foundation needed to play \"Girl from Ipanema\" cleanly.\n\n**Drill:**\n\u2026",
+    "quiz": {
+      "question_count": 3,
+      "has_3_questions": true,
+      "valid_options": true,
+      "valid_answers": true,
+      "has_question_text": true,
+      "_score": "4/4"
+    },
+    "quiz_ok": true
+  },
+  {
+    "profile": "Ben",
+    "level": "intermediate",
+    "song": "Take Five",
+    "days": 45,
+    "plan": {
+      "segment_count_ok": true,
+      "segment_count": 10,
+      "dates_within_deadline": true,
+      "skills_non_empty": true,
+      "skills_distinct": true,
+      "all_not_started": true,
+      "song_contextual": true,
+      "_score": "6/6"
+    },
+    "plan_ok": true,
+    "coaching": {
+      "word_count": 75,
+      "concise": true,
+      "has_what": true,
+      "has_drill": true,
+      "has_done_when": true,
+      "has_numbered_steps": true,
+      "step_count": 3,
+      "non_empty": true,
+      "_score": "6/6"
+    },
+    "coaching_ok": true,
+    "coaching_preview": "**What:** Internalizing 5/4 groove so you can lock into \"Take Five\" without fighting the rhythm.\n\n**Drill:**\n1. Clap ste\u2026",
+    "quiz": {
+      "question_count": 3,
+      "has_3_questions": true,
+      "valid_options": true,
+      "valid_answers": true,
+      "has_question_text": true,
+      "_score": "4/4"
+    },
+    "quiz_ok": true
+  },
+  {
+    "profile": "Clara",
+    "level": "complete_beginner",
+    "song": "Fly Me to the Moon",
+    "days": 30,
+    "plan": {
+      "segment_count_ok": true,
+      "segment_count": 9,
+      "dates_within_deadline": true,
+      "skills_non_empty": true,
+      "skills_distinct": true,
+      "all_not_started": true,
+      "song_contextual": true,
+      "_score": "6/6"
+    },
+    "plan_ok": true,
+    "coaching": {
+      "word_count": 71,
+      "concise": true,
+      "has_what": true,
+      "has_drill": true,
+      "has_done_when": true,
+      "has_numbered_steps": true,
+      "step_count": 3,
+      "non_empty": true,
+      "_score": "6/6"
+    },
+    "coaching_ok": true,
+    "coaching_preview": "**What:** Master assembly and embouchure basics so you can reliably produce clean tones.\n\n**Drill:**\n1. Assemble saxopho\u2026",
+    "quiz": {
+      "question_count": 3,
+      "has_3_questions": true,
+      "valid_options": true,
+      "valid_answers": true,
+      "has_question_text": true,
+      "_score": "4/4"
+    },
+    "quiz_ok": true
+  },
+  {
+    "profile": "Dan",
+    "level": "advanced_beginner",
+    "song": "Autumn Leaves",
+    "days": 120,
+    "plan": {
+      "segment_count_ok": true,
+      "segment_count": 10,
+      "dates_within_deadline": true,
+      "skills_non_empty": true,
+      "skills_distinct": true,
+      "all_not_started": true,
+      "song_contextual": true,
+      "_score": "6/6"
+    },
+    "plan_ok": true,
+    "coaching": {
+      "word_count": 75,
+      "concise": true,
+      "has_what": true,
+      "has_drill": true,
+      "has_done_when": true,
+      "has_numbered_steps": true,
+      "step_count": 3,
+      "non_empty": true,
+      "_score": "6/6"
+    },
+    "coaching_ok": true,
+    "coaching_preview": "**What:** Solidify the G minor melody with accurate fingerings and clean articulation at slow tempo.\n\n**Drill:**\n1. Fing\u2026",
+    "quiz": {
+      "question_count": 3,
+      "has_3_questions": true,
+      "valid_options": true,
+      "valid_answers": true,
+      "has_question_text": true,
+      "_score": "4/4"
+    },
+    "quiz_ok": true
+  },
+  {
+    "profile": "Eva",
+    "level": "intermediate",
+    "song": "Misty",
+    "days": 60,
+    "plan": {
+      "segment_count_ok": true,
+      "segment_count": 10,
+      "dates_within_deadline": true,
+      "skills_non_empty": true,
+      "skills_distinct": true,
+      "all_not_started": true,
+      "song_contextual": true,
+      "_score": "6/6"
+    },
+    "plan_ok": true,
+    "coaching": {
+      "word_count": 73,
+      "concise": true,
+      "has_what": true,
+      "has_drill": true,
+      "has_done_when": true,
+      "has_numbered_steps": true,
+      "step_count": 3,
+      "non_empty": true,
+      "_score": "6/6"
+    },
+    "coaching_ok": true,
+    "coaching_preview": "**What:** Locking in the A section melody builds the foundation for \"Misty\" \u2014 clean pitches and timing before adding int\u2026",
+    "quiz": {
+      "question_count": 3,
+      "has_3_questions": true,
+      "valid_options": true,
+      "valid_answers": true,
+      "has_question_text": true,
+      "_score": "4/4"
+    },
+    "quiz_ok": true
+  }
+]

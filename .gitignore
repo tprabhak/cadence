@@ -1,0 +1,30 @@
+# Environment — never commit API keys
+.env
+.env.*
+frontend/.env.local
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Database — regenerated on first run
+*.db
+*.sqlite
+
+# Node
+node_modules/
+.next/
+dist/
+frontend/build/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Internal Claude instructions
+CLAUDE.md
