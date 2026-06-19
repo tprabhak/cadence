@@ -9,7 +9,7 @@ const TEXT    = "#1C1A17";
 const TEXT_DIM  = "#7A7268";
 const GREEN   = "#16A34A";
 
-const API          = "http://localhost:8000";
+const API          = process.env.REACT_APP_API_URL || "http://localhost:8000";
 const ADMIN_SECRET = process.env.REACT_APP_ADMIN_SECRET || "";
 
 async function fetchMetrics() {
