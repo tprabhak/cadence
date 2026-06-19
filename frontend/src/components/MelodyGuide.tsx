@@ -30,7 +30,7 @@ export default function MelodyGuide() {
           Melody Map
         </span>
         <div style={{ flex: 1, height: 1, background: BORDER }} />
-        <span style={{ fontSize: 10, color: TEXT_DIM, fontFamily: "DM Sans, sans-serif" }}>Can't Help Falling in Love · Alto sax</span>
+        <span style={{ fontSize: 10, color: TEXT_DIM, fontFamily: "DM Sans, sans-serif" }}>Can't Help Falling in Love · Tenor sax</span>
       </div>
 
       {/* Phrases */}
